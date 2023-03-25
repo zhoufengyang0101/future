@@ -4,7 +4,7 @@ import { head, nav, sidebar } from './configs'
 
 export default defineConfig({
     /* 输出文件目录 默认 ./.vitepress/dist*/
-    outDir: '../dist',
+    // outDir: '../dist',
 
     lang: 'zh-CN',
     title: 'Future',
@@ -22,7 +22,7 @@ export default defineConfig({
     // },
 
     /* 源目录 存放md文件的目录 */
-    srcDir: './src',
+    // srcDir: './src',
 
     /* 排除哪些文件 */
     srcExclude: ['**/README.md', '**/TODO.md'],

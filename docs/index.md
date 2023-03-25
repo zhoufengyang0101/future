@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /环境配置命令记录
+      link: /React
     - theme: alt
       text: 练习
       link: /guide/

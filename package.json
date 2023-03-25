@@ -1,0 +1,19 @@
+{
+  "name": "my-press",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "future",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs --port 8000",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs --port 8080"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.50",
+    "vue": "^3.2.47"
+  },
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}

@@ -9,7 +9,7 @@ hero:
   text: 学习记录
   tagline: 没啥特点仅供学习
   image:
-    src: /public/icons/1.jpg
+    src: icons/1.jpg
     alt: LOGO
   actions:
     - theme: brand

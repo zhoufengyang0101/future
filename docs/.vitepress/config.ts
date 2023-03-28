@@ -10,7 +10,7 @@ export default defineConfig({
     title: 'Future',
     description: '描述',
     head,
-    // base: '/',
+    base: '/future-press/',
 
     lastUpdated: true,
     /* 生成干净的URL 删除URL中的.html */
